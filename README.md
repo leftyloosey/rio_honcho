@@ -19,4 +19,7 @@ Link:
 Screen:
 ![screen](screen.png) -->
 
-this is an insurance plan sandbox.
+## sandbox 
+
+this is a sandbox. here, that other little MERN stack I wrote for school will 
+become an insurance website for my in-laws.
